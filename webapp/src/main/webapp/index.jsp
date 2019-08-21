@@ -1,3 +1,4 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Welcome to DevOps using Github, Maven, Jenkins and Tomcat!!! </h1>
+<h2> GitHub: for source code management</h2>
+<h2> Jenkins: build and deployment</h2>
+<h2> Tomcat: runtime container</h2>
